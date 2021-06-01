@@ -30,27 +30,25 @@ Exectuting program:
 
 1. Download the application from https://github.com/serzone0414/WindowsFormsTicketingApp.git
 
-2. Clone the WindowsFormsTicketingApp into installed Visual studio 2019
+2. Double click WindowsFormsTicketingApp.exe 
 
-3. Press the start button located in the toolbar in Visual studio 2019
+3. From Form 1 select the From: destination and To: destination
 
-4. From Form 1 select the From: destination and To: destination
+4. Select one way or return
 
-5. Select one way or return
+5. Press the search button
 
-6. Press the search button
+6. Select one of the flight displayed and press the Select button
 
-7. Select one of the flight displayed and press the Select button
+7. Press continue if all the details are correct if not press Start again
 
-8. Press continue if all the details are correct if not press Start again
+8. Fill in the required passenger details
 
-9. Fill in the required passenger details
+9. Enter credit card number for the payment
 
-10. Enter credit card number for the payment
+10. Confirm to continue if not press start again
 
-11. Confirm to continue if not press start again
-
-12. Flight ticket is printed to view
+11. Flight ticket is printed to view
 
 Limiations:
 
