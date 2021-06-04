@@ -24,11 +24,11 @@ Installing:
 Requires installation of Visual studio 2019
 
 the application can be downloaded from 
-https://github.com/serzone0414/WindowsFormsTicketingApp.git
+https://github.com/serzone0414/SD6502_AssignmentTwo.git
 
 Exectuting program:
 
-1. Download the application from https://github.com/serzone0414/WindowsFormsTicketingApp.git
+1. Download the application from https://github.com/serzone0414/SD6502_AssignmentTwo.git
 
 2. Double click WindowsFormsTicketingApp.exe 
 
